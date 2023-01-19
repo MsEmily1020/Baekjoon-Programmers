@@ -1,4 +1,4 @@
-<h1>Profile</h1>
+<h1>💻 Profile 💻</h1>
 
 - Baekjoon : https://www.acmicpc.net/user/seunghyesil
 
