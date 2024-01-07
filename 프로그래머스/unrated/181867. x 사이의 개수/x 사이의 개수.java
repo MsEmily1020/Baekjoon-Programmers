@@ -5,7 +5,7 @@ class Solution {
         List<Integer> answer = new ArrayList<>();
         String[] str = myString.split("x");
         for(int i = 0; i < str.length; i++) answer.add(str[i].length());
-        if(myString.charAt(myString.length() - 1) == 'x') answer.add(0);
+        if(myString.endsWith("x")) answer.add(0);
         return answer;
     }
 }
