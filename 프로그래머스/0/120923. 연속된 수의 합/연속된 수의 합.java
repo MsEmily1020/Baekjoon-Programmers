@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public int[] solution(int num, int total) {
         int[] answer = new int[num];
